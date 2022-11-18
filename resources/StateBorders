@@ -1,0 +1,22 @@
+// ----------------------------------------
+// This File is only for your Information
+// and represents the boarders of the
+// states of Austria
+//
+// 0,0 - 0,10 represents boarder coordinats
+// x1 = 0, y1 = 0 to x2 = 0, y2 = 10
+//
+// Example:
+// 0,5 represents NOE
+// 1,5 represents OOE
+// ----------------------------------------
+
+NOE = 0,0 - 0,10
+OOE = 1,0 - 1,10
+W   = 2,0 - 2,10
+B   = 3,0 - 3,10
+K   = 4,0 - 4,10
+S   = 5,0 - 5,10
+ST  = 6,0 - 6,10
+T   = 7,0 - 7,10
+V   = 8,0 - 8,10
